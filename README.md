@@ -34,7 +34,7 @@ This is a personal portfolio website built with React, Tailwind CSS, and Framer 
 To create an optimized build for deployment:
 
 ```bash
-npm run build
+npm run build:client
 ```
 
 The built files will be in the `dist/public` directory.
